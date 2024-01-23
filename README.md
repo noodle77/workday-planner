@@ -1,2 +1,1 @@
-# workday-planner
-Calendar Application to plan out your work day
+# Work Day Scheduler Starter Code
