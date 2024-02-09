@@ -12,12 +12,6 @@ current time.
 Finally, it keeps the time and date updated to the second at the top of the page, so the 
 user never loses track of those critical pieces of information.
 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Credits
 
 W3 Schools - https://www.w3schools.com/jquery/default.asp
